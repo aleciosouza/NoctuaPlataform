@@ -1,0 +1,8 @@
+D:\USC\IC\DEV\NoctuaPlataform\NoctuaCore\obj\Debug\NoctuaCore.csproj.CoreCompileInputs.cache
+D:\USC\IC\DEV\NoctuaPlataform\NoctuaCore\bin\Debug\NoctuaCore.dll
+D:\USC\IC\DEV\NoctuaPlataform\NoctuaCore\bin\Debug\NoctuaCore.pdb
+D:\USC\IC\DEV\NoctuaPlataform\NoctuaCore\bin\Debug\Newtonsoft.Json.dll
+D:\USC\IC\DEV\NoctuaPlataform\NoctuaCore\bin\Debug\Newtonsoft.Json.xml
+D:\USC\IC\DEV\NoctuaPlataform\NoctuaCore\obj\Debug\NoctuaCore.csprojResolveAssemblyReference.cache
+D:\USC\IC\DEV\NoctuaPlataform\NoctuaCore\obj\Debug\NoctuaCore.dll
+D:\USC\IC\DEV\NoctuaPlataform\NoctuaCore\obj\Debug\NoctuaCore.pdb

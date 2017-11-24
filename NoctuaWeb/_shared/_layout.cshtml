@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>Noctua Plataform</title>
+        
+        <!--FIREBASE-->
+        <script src="https://www.gstatic.com/firebasejs/4.6.1/firebase.js"></script>
+        <script src="~/_js/firebaseConnection.js"></script>
+
+        <!--MATEIRAL DESIGN LITE-->
+        <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+        <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+        <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.blue_grey-orange.min.css" />
+
+        <!--CSS-->
+        <link rel="stylesheet" href="~/_css/style.css" />
+        
+        <!--JAVASCRIPTS-->
+        <script src="~/_js/validation.js"></script>
+
+    </head>
+    <body>
+        <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+            <header class="mdl-layout__header">
+                <div class="mdl-layout-icon"></div>
+                <div class="mdl-layout__header-row">
+                    <span class="mdl-layout-title">Noctua plataform</span>
+                    <div class="mdl-layout-spacer"></div>
+                    <nav class="mdl-navigation mdl-layout--large-screen-only">
+                        <a class="mdl-navigation__link" href="#">Adicionar</a>
+                        <a class="mdl-navigation__link" href="#">Atualizar</a>
+                        <a class="mdl-navigation__link" href="#">Remover</a>
+                        <a class="mdl-navigation__link" href="#">Consultar</a>
+                    </nav>
+                </div>
+            </header>
+            <div class="mdl-layout__drawer mdl-layout--small-screen-only">
+                <span class="mdl-layout__title">Noctua Plataform</span>
+                <nav class="mdl-navigation">
+                    <a class="mdl-navigation__link" href="#">Adicionar</a>
+                    <a class="mdl-navigation__link" href="#">Atualizar</a>
+                    <a class="mdl-navigation__link" href="#">Remover</a>
+                    <a class="mdl-navigation__link" href="#">Consultar</a>
+                </nav>
+            </div>
+            @RenderBody()
+        </div>
+    </body>
+</html>

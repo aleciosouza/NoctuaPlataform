@@ -1,0 +1,15 @@
+﻿body {
+}
+
+.greyBg {
+    background-color: #f8f8f8;
+}
+
+.fullWidth{
+    width: 100%;
+}
+
+.rightFloat{
+    float:right;
+    margin-left: 5%;
+}
